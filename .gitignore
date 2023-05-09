@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ShapeCalculator/.vs/ShapeCalculator
+/ShapeCalculator/ConsoleApp/obj
+/ShapeCalculator/ConsoleApp/bin/Debug/net6.0
+/ShapeCalculator/Tests/bin/Debug/net6.0
+/ShapeCalculator/Tests/obj
+*.user
